@@ -2,7 +2,6 @@
 
 
 <img src='https://github.com/A-Kerim/Mobile-games-success-and-failure-mining-the-hidden-factors/blob/15d3ba2055c3210374e6b44ed4a7c3efe04b4867/images/Screenshot%20from%202022-05-07%2011-27-03.png'>
-Sample of icons from the top 100 games with lowest (a) and highest (b) rating count
 
 
 ## Authors
@@ -16,8 +15,8 @@ Predicting the success of a mobile game is a prime issue in game industry. Thous
 
 
 ## Citation
-* [Journal Paper](https://link.springer.com/article/10.1007/s00521-022-07154-z) published at Neural Computing and Applications Journal.
-* [Conference Paper](https://link.springer.com/article/10.1007/s00521-022-07154-z) published at International Conference on Soft Computing and Machine Intelligence (ISCMI).
+* [Journal paper](https://link.springer.com/article/10.1007/s00521-022-07154-z) published at Neural Computing and Applications Journal.
+* [Conference paper](https://ieeexplore.ieee.org/document/9311587) published at International Conference on Soft Computing and Machine Intelligence (ISCMI).
 
 ```ruby
 @article{85e99300ae4243cc9528c44cd1e8a26a,
