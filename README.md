@@ -1,1 +1,1 @@
-# Mobile-games-success-and-failure-mining-the-hidden-factors
+# Mobile Games Success and Failure: Mining the Hidden Factors
